@@ -7,7 +7,7 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreyydk&show_icons=true&theme=dark)
 
-## Most used technologies 💻
+## Technologies 💻
 
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
