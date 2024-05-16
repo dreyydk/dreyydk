@@ -17,4 +17,4 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ## Planning to study 📚
 
-[![Planning to Study](https://skillicons.dev/icons?i=react,ts,nodejs,git,python)](https://skillicons.dev)
+[![Planning to Study](https://skillicons.dev/icons?i=ts,git,sass,bootstrap,react,nextjs,nodejs,mongodb)](https://skillicons.dev)
