@@ -13,8 +13,8 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ## Currently studying 📖
 
-[![Currently Studying](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Currently Studying](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 ## Planning to study 📚
 
-[![Planning to Study](https://skillicons.dev/icons?i=ts,git,sass,bootstrap,react,nextjs,nodejs,mongodb)](https://skillicons.dev)
+[![Planning to Study](https://skillicons.dev/icons?i=git,sass,bootstrap,react,nextjs,nodejs,mongodb)](https://skillicons.dev)
