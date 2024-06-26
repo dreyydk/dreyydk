@@ -7,12 +7,18 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ## My Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,sass,bootstrap)](https://skillicons.dev)
+### Fundamentals
 
-## Currently studying 📖
+[![Fundamentals](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-[![Currently Studying](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+### Supersets 
 
-## Planning to study 📚
+[![Supersets](https://skillicons.dev/icons?i=ts,sass)](https://skillicons.dev)
 
-[![Planning to Study](https://skillicons.dev/icons?i=nextjs,nodejs,mongodb)](https://skillicons.dev)
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+
+### Others
+
+[![Others](https://skillicons.dev/icons?i=vscode,npm,babel,webpack,vite)](https://skillicons.dev)
