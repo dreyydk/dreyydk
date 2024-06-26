@@ -9,12 +9,12 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ## My Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,sass,bootstrap)](https://skillicons.dev)
 
 ## Currently studying 📖
 
-[![Currently Studying](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Currently Studying](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Planning to study 📚
 
-[![Planning to Study](https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb)](https://skillicons.dev)
+[![Planning to Study](https://skillicons.dev/icons?i=nextjs,nodejs,mongodb)](https://skillicons.dev)
