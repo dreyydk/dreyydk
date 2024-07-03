@@ -16,7 +16,7 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,nextjs)](https://skillicons.dev)
 
 ### Others
 
