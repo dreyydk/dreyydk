@@ -1,6 +1,6 @@
 # Hello, world! 🌎
 
-My name is Andrei, and I'm a rising Full-Stack developer.
+I'm Andrew, a Full-Stack JavaScript developer.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dreyydk/)
 
