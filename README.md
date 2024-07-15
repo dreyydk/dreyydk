@@ -20,4 +20,4 @@ My name is Andrei, and I'm a rising Full-Stack developer.
 
 ### Others
 
-[![Others](https://skillicons.dev/icons?i=vscode,npm,babel,webpack,vite,nodejs,postgres)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=vscode,npm,babel,webpack,vite,nodejs,postgres,sequelize)](https://skillicons.dev)
