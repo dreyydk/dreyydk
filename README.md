@@ -13,21 +13,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dreyydk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<h2 align="center">Technologies</h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -53,14 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Tools</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -68,8 +50,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-498.gif"  />
