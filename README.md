@@ -19,6 +19,10 @@
 
 ###
 
+<h2 align="center">Technologies</h2>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -40,6 +44,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
+
+###
+
+<h2 align="center">Tools</h2>
 
 ###
 
