@@ -2,6 +2,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.instagram.com/dreyydk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/andreibacin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -12,7 +23,7 @@
 
 <br clear="both">
 
-<h2 align="center">Main Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 ###
 
@@ -35,30 +46,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">Social Media</h2>
+<h2 align="center">Tools</h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.instagram.com/dreyydk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andreibacin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ###
